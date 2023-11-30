@@ -1,0 +1,65 @@
+body {
+    display: flex;
+    background-image: url(allergendbfondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #48def2;
+    align-items: center;
+    height: 100vh;
+    
+  }
+
+  .Remarco{
+    border: lightgray;
+    border-radius: 2.1vh;
+    background-color: white;
+    border-style: solid;
+    padding: 0% 2% 2% 2%;
+    min-height: 40vh;
+    margin-left: 25vh;
+
+  }
+
+  .tuperfil{
+    text-align: center;
+    width: 50vh;
+    font-size: 10vh;
+
+  }
+ 
+  h2 {
+    text-align: left;
+    margin-left:1vh;
+    margin-top:5vh;
+    margin-bottom: 2vh;
+    font-size: 2.8vh;
+  }
+
+
+  hr {
+    border: 0.3vb;
+    color: lightgrey;
+    border-style: dashed;
+    width: 100%;
+    
+  }
+
+  .hr1 { 
+    margin-top: -3vh;
+
+  }
+
+  .logo{
+    display: flex;
+    width:80vh;
+    height:20vh;
+    margin-left: 65vh;
+    margin-top: 20vh;
+  }
+
+  .flex{
+    display: flex;
+    flex-direction: row ;
+  }
